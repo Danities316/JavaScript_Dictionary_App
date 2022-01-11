@@ -1,0 +1,110 @@
+[
+    {
+        "word": "hello",
+        "phonetics":[
+            {
+                "text": "/ha lov/"
+            }
+                    ],
+        "meanings":[
+            {
+                "definitions": [
+                    {
+                        "definition": "Used as a greeting or to begin a phone conversation.",
+                        "example": "Hello there, Bryt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "boss",
+        "phonetics":[
+            {
+                "text": "/ha lov/"
+            }
+                    ],
+        "meanings":[
+            {
+                "definitions": [
+                    {
+                        "definition": "Used as a greeting or to begin a phone conversation.",
+                        "example": "Hello there, Bryt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "hello",
+        "phonetics":[
+            {
+                "text": "/ha lov/"
+            }
+                    ],
+        "meanings":[
+            {
+                "definitions": [
+                    {
+                        "definition": "Used as a greeting or to begin a phone conversation.",
+                        "example": "Hello there, Bryt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "hello",
+        "phonetics":[
+            {
+                "text": "/ha lov/"
+            }
+                    ],
+        "meanings":[
+            {
+                "definitions": [
+                    {
+                        "definition": "Used as a greeting or to begin a phone conversation.",
+                        "example": "Hello there, Bryt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "hello",
+        "phonetics":[
+            {
+                "text": "/ha lov/"
+            }
+                    ],
+        "meanings":[
+            {
+                "definitions": [
+                    {
+                        "definition": "Used as a greeting or to begin a phone conversation.",
+                        "example": "Hello there, Bryt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "hello",
+        "phonetics":[
+            {
+                "text": "/ha lov/"
+            }
+                    ],
+        "meanings":[
+            {
+                "definitions": [
+                    {
+                        "definition": "Used as a greeting or to begin a phone conversation.",
+                        "example": "Hello there, Bryt"
+                    }
+                ]
+            }
+        ]
+    }
+]

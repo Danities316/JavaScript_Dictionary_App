@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Dictionary App</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+  	<!-- <nav>
+		<ul>
+			<li><a>Home</a></li>
+			<li><a>About</a></li>
+			<li><a>Contact Us</a></li>
+		</ul>
+	</nav> -->
+
+    <div class="container">
+      <h1 class="h1">Mini-Word Glossory App</h1>
+	  <span>Words with meaning usin Dictionary API</span>
+      <div class="search">
+        <input
+          onkeypress="handleClick(event)"
+          type="text"
+          class="search-field"
+          placeholder="Type and press enter"
+        />
+      </div>
+
+      <div class="result">
+        <h1 class="word"></h1>
+        <p class="phonetics"></p>
+        <audio
+          src=""
+          controls
+        ></audio>
+        <p class="wordmeaning"></p>
+        <p class="word-definition"></p>
+        <p class="wordmeaning"></p>
+        <div class="synonyms"></div>
+		<div class="me"></div>
+      </div>
+    </div>
+
+    <footer>
+			<span>
+				Created With Love by <a>Danities</a>
+				
+			</span>
+		</footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
+
+
+
+
