@@ -35,9 +35,7 @@ My challenge was to build out this Word Dictionary app using the [Uban Dictionar
 ![Javascript Urban Dictionary-app](https://user-images.githubusercontent.com/12422620/175571340-e198f843-1946-4742-8544-c87ed597143c.png)
 
 ### Links
-
-- Solution URL: 
-- Live Site URL:
+- Live Site URL: https://javascript-word-dictionary.vercel.app/
 
 ## My process
 - Creatively create responsive landing page using pure CSS, i was greatly inspired by the work of others projects
