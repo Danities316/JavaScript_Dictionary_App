@@ -60,7 +60,9 @@ My challenge was to build out this Word Dictionary app using the [Uban Dictionar
 - Create a random music player using any music API
 
 ### Useful resources
-- https://learnsyntax.com/lets-create-a-dictionary-with-vanilla-javascript
+- https://dictionaryapi.dev/
+- css documentation 
+
 
 ### Author
 Linktree = linktr.ee/Danities
