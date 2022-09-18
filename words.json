@@ -53,6 +53,9 @@
             }
         ]
     },
+{
+"Resources" : "https://learnsyntax.com/lets-create-a-dictionary-with-vanilla-javascript",
+}
     {
         "word": "hello",
         "phonetics":[
