@@ -46,6 +46,4 @@ const handleClick = async (e) => {
   }
 };
 
-
-// //https://learnsyntax.com/lets-create-a-dictionary-with-vanilla-javascript
 // Motivation: https://gcallah.github.io/OOP2/about.html
